@@ -88,7 +88,7 @@ input:focus {
 button {
   width: 100%;
   padding: 1rem;
-  background-color: #4f46e5;
+  background-color: #000;
   color: white;
   border: none;
   border-radius: 8px;
